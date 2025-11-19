@@ -1,0 +1,46 @@
+plugins {
+    id 'application'
+    id("org.openjfx.javafxplugin") version "0.0.11"
+}
+
+application {
+    mainClass = 'client.Main'
+}
+
+javafx {
+    version = "21.0.2"
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+java {
+	sourceCompatibility = '21'
+}
+
+
+dependencies {
+	implementation project(":commons")
+	
+	implementation group: 'org.glassfish.jersey.core', name: 'jersey-client', version: '3.0.3'
+	implementation group: 'org.glassfish.jersey.inject', name: 'jersey-hk2', version: '3.0.3'
+	implementation group: 'org.glassfish.jersey.media', name: 'jersey-media-json-jackson', version: '3.0.3'
+	
+	implementation group: 'jakarta.activation', name: 'jakarta.activation-api', version: '2.0.1'
+	
+	implementation 'com.google.inject:guice:5.0.1'
+	
+	
+	
+	implementation 'org.openjfx:javafx-controls:21.0.2'
+	implementation 'org.openjfx:javafx-fxml:21.0.2'
+
+    testImplementation "org.testfx:testfx-core:4.0.18"
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.1'
+    testImplementation "org.testfx:testfx-junit5:4.0.18"
+    testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.13.2'
+    testImplementation 'org.testfx:openjfx-monocle:21.0.2'
+
+    testImplementation 'org.hamcrest:hamcrest:2.2'
+    testImplementation "org.mockito:mockito-core:5.11.0"
+
+    implementation group: 'org.simplejavamail', name:'simple-java-mail', version: '8.8.2'
+}

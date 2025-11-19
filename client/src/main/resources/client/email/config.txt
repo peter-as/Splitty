@@ -1,0 +1,4 @@
+email splitty47@gmail.com
+password wqltktrciluzzzms
+host smtp.gmail.com
+splitty http://localhost:8080/

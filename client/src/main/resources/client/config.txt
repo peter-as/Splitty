@@ -1,0 +1,2 @@
+language:Bulgarian
+currency:EUR

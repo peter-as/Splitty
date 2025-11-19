@@ -1,0 +1,95 @@
+StartCreate-Създай ново събитие
+StartCreateButton-Създай
+StartJoin-Влез в събитие
+StartJoinButton-Влез
+StartRecentEvents-Наскоро видени събития
+BackButton-Назад
+Participants-Участници
+Expenses-Разходи
+AddExpenseButton-Добави разход
+AllButton-Всички
+FromButton-От
+IncludingButton-Включва
+SettleDebtsButton-Уреди дългове
+OverviewAll-всички
+OverviewEdit-редактирай
+OverviewPaid-плати
+OverviewFor-за
+CancelButton-Откажи
+AddButton-Добави
+SendInvitesButton-Прати покани
+StatisticsButton-Статистики
+SortOnTags-Подреди разходи по етикет
+AddExpenseTitle-Добави разход
+AddExpenseWhoPaid-Кой плати?
+AddExpenseWhatFor-За какво?
+AddExpenseHowMuch-Колко?
+AddExpenseWhen-Кога?
+AddExpenseType-Тип разход
+AddExpenseSplit-Как да се раздели?
+AddExpenseSplitEqual-Поравно
+AddExpenseSplitSome-Само някои хора
+AddExpenseCreateTag-Създай етикет
+AddExpenseEditTag-Редактирай етикет
+EditExpenseTitle-Редактирай / Премахни Етикет
+EditExpenseDelete-Изтрий
+AddTagTitle-Добави етикет
+AddTagName-Име на етикет
+AddTagColor-Цвят на етикета:
+EditTagSelectTag-Избери етикет
+EditTagTitle-Редактирай / Премахни етикет
+RemoveButton-Премахни
+StatisticsTitle-Статистики
+StatisticsCosts-Обща сума на събитието:
+AddParticipantTitle-Добави участник
+AddParticipantName-Име
+AddParticipantEmail-Имейл
+AddParticipantIBAN-IBAN
+AddParticipantBIC-BIC
+EditParticipantSelect-Моля добави името на участника, когото искате да редактирате / махнете:
+EditParticipantProceed-Продължи
+EditParticipantTitle-Редактирай / Премахни Участник
+SettleDebtsTitle-Отворени дългове
+SettleDebtsRefresh-Упресни
+SettleDebtsReceived-Маркирай получено
+SendInvitesCode-Сподели с хората този код:
+SendInvitesEmails-Покани тези хора чрез имейл: (един адрес на линия):
+GetExpenseLabel-Избери разходи по етикет
+ShowParticipant-Покажи разходи на участници
+ShowTag-Покажи използване на етикети
+InviteCode-Код за покана:
+ParticipantEdit-Редактирай
+ParticipantNameAlert-Участник трябва да има име! Моля добави.
+ParticipantNameExists-Участник с това име вече съществува! Моля избери друго име.
+ParticipantAdded-Участник добавен!
+ParticipantEdited-Участник редактиран!
+ParticipantDelete-За да изтриеш участник, той не трябва да има дълг!
+ParticipantInvolved-Не може да премахнеш участник който участва в разход!
+ParticipantDeleted-Участник изтрит!
+DeleteConfirm-Сигурен ли си че искаш да изтриеш?
+DateFormat-Датата трябва да е в правилен формат. Използвай избирача на дати.
+FillFields-Моля попълни всички полета
+NoRates-Все още няма валутни курсове за бъдещето.
+CorrectFormat-Въведи пари в правилния формат.
+MoneyFormat-Въведи пари в правилния формат, с 2 цифри след десетичната запетая и поне 1 преди.
+ExpenseAdded-Разход беше добавен!
+ExpenseEdited-Разход беше редактиран!
+DeleteConfirm-Сигурни ли сте че искате да изтриете?
+EditExpense-Редактирай разход
+TagAdded-Етикет добавен!
+TagEdited-Етикет редактиран!
+TagRemoveError-Не можеш да махнеш етикет, който се използва в разход!
+DeletionConfirm-Сигурни ли сте че искате да изтриете?
+SendReminder-изпрати напомняне
+EmailConfigured-Имейл избран:
+BankAvailable-Банкова информация достъпна, моля преведи пари на:
+AccountHolder-Притежател на сметка:
+IBANDebts-IBAN:
+BICDebts-BIC:
+NoInformation-Няма достатъчна банкова информация
+MarkReceived-Маркирай получено
+Gives- дава
+To- на
+EmailConfigured-Няма избран имейл!
+EventCreated-Събитие създадено!
+EventNotFound-Събитието не беше намерено!

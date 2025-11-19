@@ -1,0 +1,95 @@
+StartCreate-Maak nieuw evenement
+StartCreateButton-Aanmaken
+StartJoin-Deelnemen aan evenement
+StartJoinButton-Deelnemen
+StartRecentEvents-Recent bekeken evenementen:
+BackButton-Terug
+Participants-Deelnemers
+Expenses-Uitgaves
+AddExpenseButton-Uitgave aanmaken
+AllButton-Alles
+FromButton-Van
+IncludingButton-Inclusief
+SettleDebtsButton-Schuld Lossen
+OverviewAll-Iedereen
+OverviewEdit-Bewerken
+OverviewPaid-heeft
+OverviewFor-betaald voor
+CancelButton-Annuleren
+AddButton-Aanmaken
+SendInvitesButton-Uitnodigingen Versturen
+StatisticsButton-Statistieken
+SortOnTags-Sorteer uitgaves op label
+AddExpenseTitle-Uitgave Aanmaken
+AddExpenseWhoPaid-Wie heeft betaald?
+AddExpenseWhatFor-Voor wat?
+AddExpenseHowMuch-Hoeveel?
+AddExpenseWhen-Wanneer?
+AddExpenseType-Uitgave type
+AddExpenseSplit-Hoe splitsen?
+AddExpenseSplitEqual-Iedereen gelijk
+AddExpenseSplitSome-Alleen sommige
+AddExpenseCreateTag-Label Aanmaken
+AddExpenseEditTag-Label Bewerken
+EditExpenseTitle-Uitave Berwerken / Verwijderen
+EditExpenseDelete-Verwijderen
+AddTagTitle-Label Aanmaken
+AddTagName-Naam van label:
+AddTagColor-Kleur van label:
+EditTagSelectTag-Label Selecteren
+EditTagTitle-Label Berwerken / Verwijderen
+RemoveButton-Verwijderen
+StatisticsTitle-Statistieken
+StatisticsCosts-Totalen kosten van evenement:
+AddParticipantTitle-Deelnemer Aanmaken
+AddParticipantName-Naam
+AddParticipantEmail-Email
+AddParticipantIBAN-IBAN
+AddParticipantBIC-BIC
+EditParticipantSelect-Vul alsjeblieft de naam in van de deelnamer die je wilt bewerken / verwijderen:
+EditParticipantProceed-Verder
+EditParticipantTitle-Deelnemer Bewerken / Verwijderen
+SettleDebtsTitle-Openstaande schulden
+SettleDebtsRefresh-Vernieuwen
+SettleDebtsReceived-Ontvangen Markeren
+SendInvitesCode-Geef mensen de volgende uitnodigings code:
+SendInvitesEmails-Nodig mensen uit via email (een address per lijn):
+GetExpenseLabel-Sorteer uitgaves op label
+ShowParticipant-Laat deelnemer uitgaves zien
+ShowTag-Zie label gebruik
+InviteCode-Uitnodigings code:
+ParticipantEdit-Bewerken
+ParticipantNameAlert-Deelnemer moet een naam hebben! Vul alsjeblieft in.
+ParticipantNameExists-Een deelnemer met deze naam bestaat al! Kies alsjeblieft een andere naam.
+ParticipantAdded-Deelnemer toegevoegd!
+ParticipantEdited-Deelnemer succesvol bewerkt!
+ParticipantDelete-On een deelnemer te verwijderen mogen ze geen schulden hebben!
+ParticipantInvolved-Je kan geen deelnemers verwijderen die deel uitmaken van een uitgave!
+ParticipantDeleted-Deelnemer verwijderd!
+DeleteConfirm-Weet je zeker dat je dit wilt verwijderen?
+DateFormat-Datum moet in het correcte formaat. Gebruik de datum kiezer voor gemak.
+FillFields-Vul alsjeblieft alle velden in
+NoRates-Er zijn geen conversie gegevens voor toekomstige datums.
+CorrectFormat-Vul het bedrag in het juiste formaat in.
+MoneyFormat-Vul het bedrag in het juiste formaat in. 2 getallen achter de punt en ten minste 1 voor de punt.
+ExpenseAdded-Uitgave toegevoegd!
+ExpenseEdited-Uitgave successvol bewerkt!
+DeleteConfirm-Weet je zeker dat je dit wilt verwijderen?
+EditExpense-Uitgave bewerken
+TagAdded-Label toegevoegd!
+TagEdited-Label succesvol bewerkt!
+TagRemoveError-Ja kan geen label verwijderen die wordt gebruikt in een uitgave!
+DeletionConfirm-Weet je zeker dat je dit wilt verwijderen?
+SendReminder-Herinnering sturen
+EmailConfigured-Email geconfigureerd:
+BankAvailable-Bank informatie beschikbaar, stuur alsjeblieft het geld naar:
+AccountHolder-Rekening houder:
+IBANDebts-IBAN:
+BICDebts-BIC:
+NoInformation-Geen geldige bank informatie beschikbaar.
+MarkReceived-Ontvangen Markeren
+Gives- geeft
+To- aan
+EmailConfigured-Geen email geconfigureerd!
+EventCreated-Evenement aangemaakt!
+EventNotFound-Evenement niet gevonden!

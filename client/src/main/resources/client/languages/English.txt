@@ -1,0 +1,95 @@
+StartCreate-Create New Event
+StartCreateButton-Create
+StartJoin-Join Event
+StartJoinButton-Join
+StartRecentEvents-Recently viewed events:
+BackButton-Back
+Participants-Participants
+Expenses-Expenses
+AddExpenseButton-Add expense
+AllButton-All
+FromButton-From
+IncludingButton-Including
+SettleDebtsButton-Settle Debts
+OverviewAll-all
+OverviewEdit-edit
+OverviewPaid-paid
+OverviewFor-for
+CancelButton-Cancel
+AddButton-Add
+SendInvitesButton-Send Invites
+StatisticsButton-Statistics
+SortOnTags-Sort expenses by tag
+AddExpenseTitle-Add Expense
+AddExpenseWhoPaid-Who Paid?
+AddExpenseWhatFor-What For?
+AddExpenseHowMuch-How Much?
+AddExpenseWhen-When?
+AddExpenseType-Expense Type
+AddExpenseSplit-How To Split?
+AddExpenseSplitEqual-Equally between everyone
+AddExpenseSplitSome-Only some people
+AddExpenseCreateTag-Create Tag
+AddExpenseEditTag-Edit Tag
+EditExpenseTitle-Edit / Remove Tag
+EditExpenseDelete-Delete
+AddTagTitle-Add Tag
+AddTagName-Name of tag:
+AddTagColor-Color of tag:
+EditTagSelectTag-Select Tag
+EditTagTitle-Edit / Remove Tag
+RemoveButton-Remove
+StatisticsTitle-Statistics
+StatisticsCosts-Total Cost of Event:
+AddParticipantTitle-Add Participant
+AddParticipantName-Name
+AddParticipantEmail-Email
+AddParticipantIBAN-IBAN
+AddParticipantBIC-BIC
+EditParticipantSelect-Please enter the name of the participant you want to edit / remove:
+EditParticipantProceed-Proceed
+EditParticipantTitle-Edit / Remove Participant
+SettleDebtsTitle-Open debts
+SettleDebtsRefresh-Refresh
+SettleDebtsReceived-Mark Received
+SendInvitesCode-Give people the following code:
+SendInvitesEmails-Invite the following people by email(one address per line):
+GetExpenseLabel-Get expenses by tag
+ShowParticipant-Show participant spending
+ShowTag-Show tag usage
+InviteCode-Invite code:
+ParticipantEdit-Edit
+ParticipantNameAlert-Participant must have a name! Please add one.
+ParticipantNameExists-A participant with this name already exists! Please choose another name.
+ParticipantAdded-Participant was added!
+ParticipantEdited-Participant was edited!
+ParticipantDelete-To delete a participant, they must have no debt!
+ParticipantInvolved-You cannot remove a participant that is involved in an expense!
+ParticipantDeleted-Participant was deleted!
+DeleteConfirm-Are you sure you want to delete?
+DateFormat-Date needs to be of correct format. Use date picker for ease.
+FillFields-Please fill all fields
+NoRates-There are no conversion rates yet for future dates.
+CorrectFormat-Enter money in the correct format.
+MoneyFormat-Enter money in the correct format, with 2 digits after the decimal and at least 1 before.
+ExpenseAdded-Expense was added!
+ExpenseEdited-Expense was edited!
+DeleteConfirm-Are you sure you want to delete?
+EditExpense-Edit Expense
+TagAdded-Tag was added!
+TagEdited-Tag was edited!
+TagRemoveError-You cannot remove a tag that is used in an expense!
+DeletionConfirm-Are you sure you want to delete?
+SendReminder-send reminder
+EmailConfigured-Email configured:
+BankAvailable-Bank information available, please transfer money to:
+AccountHolder-Account holder:
+IBANDebts-IBAN:
+BICDebts-BIC:
+NoInformation-No sufficient banking information available
+MarkReceived-Mark Received
+Gives- gives
+To- to
+EmailConfigured-No email configured!
+EventCreated-Event was created!
+EventNotFound-Event not found!

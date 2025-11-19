@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: f5cce2;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="server.scenes.LoginCtrl">
+   <children>
+      <Label layoutX="112.0" layoutY="102.0" style="-fx-font-weight: bold;" text="Successful login!">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Label>
+      <Button accessibleHelp="" layoutX="197.0" layoutY="200.0" mnemonicParsing="false" onAction="#goTo" prefHeight="51.0" prefWidth="206.0" style="-fx-background-color: E8EFFA; -fx-border-color: AAAAAA; -fx-border-insets: 2.5;" text="Go to: Event Overview">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+   </children>
+</Pane>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="600.0" style="-fx-background-color: f5cce2;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.SettleDebtsCtrl">
+   <children>
+      <Label fx:id="debtTitle" layoutX="210.0" layoutY="12.0" text="Open Debts">
+
+         <font>
+            <Font name="System Bold" size="35.0" />
+         </font>
+      </Label>
+
+      <Accordion layoutX="98.0" layoutY="125.0" />
+      <Accordion layoutX="412.0" layoutY="200.0" />
+      <Button fx:id="backB" layoutX="260.0" layoutY="372.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="83.0" style="-fx-background-color: e8effa; -fx-font-weight: bold; -fx-border-color: aaaaaa; -fx-border-insets: 2.5;" text="Back" />
+      <ScrollPane layoutX="20.0" layoutY="120.0" prefHeight="245.0" prefWidth="562.0" style="-fx-border-color: black; -fx-background-color: E8EFFA;">
+         <content>
+            <Accordion fx:id="accordion" prefHeight="39.0" prefWidth="556.0" style="-fx-border-color: black; -fx-background-color: E8EFFA;">
+              <panes>
+                <TitledPane animated="false" prefWidth="350.0" text="untitled 1" />
+                <TitledPane animated="false" text="untitled 2" />
+              </panes>
+            </Accordion>
+         </content>
+      </ScrollPane>
+      <ScrollPane layoutX="20.0" layoutY="70.0" prefHeight="40.0" prefWidth="562.0" style="-fx-border-color: black; -fx-background-color: E8EFFA;">
+         <content>
+            <Label fx:id="information" text="Label">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </content>
+      </ScrollPane>
+   </children>
+</Pane>
